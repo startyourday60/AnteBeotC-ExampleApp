@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+CGfbTYwKlTi/Z9HGu7aHsFNHabgSnXzEL4pK7KBy2iYwsjIW20Wa4SECBDfU1wuYueiGC3mA9J7W8nq/emSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oruge\\source\\repos\\AnteBeotWinClient\\AnteBeotWinClient\\AnteBeotWinClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oruge\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
